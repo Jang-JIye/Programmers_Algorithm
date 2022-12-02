@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Finding_a_share/Solutioln.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Programmers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programmers.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/문자열 안에 문자열" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_to_string/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +51,7 @@
       <updated>1669958258768</updated>
       <workItem from="1669958259896" duration="126000" />
       <workItem from="1669976884878" duration="110000" />
-      <workItem from="1669978123057" duration="309000" />
+      <workItem from="1669978123057" duration="2973000" />
     </task>
     <servers />
   </component>
