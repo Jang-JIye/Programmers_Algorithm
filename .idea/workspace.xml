@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hate_English/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plus_two_numbers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Characters_Coordinates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Characters_Coordinates/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,8 @@
       <workItem from="1670217434399" duration="4035000" />
       <workItem from="1670285834903" duration="6823000" />
       <workItem from="1670380854047" duration="1256000" />
-      <workItem from="1670458491104" duration="3294000" />
+      <workItem from="1670458491104" duration="3727000" />
+      <workItem from="1670476913189" duration="737000" />
     </task>
     <servers />
   </component>
