@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Addition_of_fractions/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubling_an_array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Length_of_overlapping_segments/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/a/Desktop/Algorithm/Programmers",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a/Desktop/Algorithm/Programmers&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +55,11 @@
       <workItem from="1670285834903" duration="6823000" />
       <workItem from="1670380854047" duration="1256000" />
       <workItem from="1670458491104" duration="3727000" />
-      <workItem from="1670476913189" duration="12575000" />
+      <workItem from="1670476913189" duration="13468000" />
+      <workItem from="1670545262015" duration="902000" />
+      <workItem from="1670550131618" duration="933000" />
+      <workItem from="1670599604111" duration="64000" />
+      <workItem from="1670645401298" duration="1139000" />
     </task>
     <servers />
   </component>
