@@ -3,5 +3,28 @@ package Length_of_overlapping_segments;
 선분의 시작과 끝 좌표가 [[start, end], [start, end], [start, end]] 형태로 들어있는 2차원 배열 lines가 매개변수로 주어질 때,
  두 개 이상의 선분이 겹치는 부분의 길이를 return 하도록 solution 함수를 완성해보세요.*/
 
-public class Solution {
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int solution(int[][] lines) {
+        int answer = 0;
+
+        Map<String, Integer> map = new HashMap<String, Integer>();
+
+        for (int[] line : lines) {
+            int tempMin = Math.min(line[0], line[1]);
+            int tempMax = Math.max(line[0], line[1]);
+            for (int i = tempMin + 1; i < tempMax + 1; i++) {
+                String str = (i - 1) + "/" + i;
+                map.put(str, map.getOrDefault(str, 0) + 1);
+            }
+        }
+
+        for (Integer value : map.values()) {
+            if (value > 1) answer++;
+        }
+
+        return answer;
+    }
 }
