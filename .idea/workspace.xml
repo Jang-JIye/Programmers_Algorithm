@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="221213">
+      <change afterPath="$PROJECT_DIR$/Parallel/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Safe_Zone/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Safe_Zone/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Average_of_Array/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Average_of_Array/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,9 @@
       <workItem from="1670599604111" duration="64000" />
       <workItem from="1670645401298" duration="17788000" />
       <workItem from="1670803976493" duration="3858000" />
-      <workItem from="1670891425278" duration="6966000" />
+      <workItem from="1670891425278" duration="9160000" />
+      <workItem from="1670918298208" duration="317000" />
+      <workItem from="1670942935817" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="안전지대">
       <created>1670891554024</created>
@@ -82,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670895660302</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="안전지대_이해 못했음">
+      <created>1670908585609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670908585609</updated>
+    </task>
+    <task id="LOCAL-00005" summary="221213">
+      <created>1670908600651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670908600651</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="안전지대" />
     <MESSAGE value="OX퀴즈" />
+    <MESSAGE value="안전지대_이해 못했음" />
     <MESSAGE value="221213" />
     <option name="LAST_COMMIT_MESSAGE" value="221213" />
   </component>
