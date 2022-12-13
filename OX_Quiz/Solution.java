@@ -5,7 +5,25 @@ package OX_Quiz;
 */
 class Solution {
     public String[] solution(String[] quiz) {
-        String[] answer = {};
+        String[] answer = new String[quiz.length];
+        for (int i = 0; i < quiz.length; i++) {
+            String[] calcu = quiz[i].trim().split(" "); //trim() : 공백제거 메소드
+            if (calcu[1].equals("+")) {
+                if (Integer.parseInt(calcu[0]) + Integer.parseInt(calcu[2]) == Integer.parseInt(calcu[4])) {
+                    answer[i] = "O";
+                } else {
+                    answer[i] = "X";
+                }
+            } else if (calcu[1].equals("-")) {
+                if (Integer.parseInt(calcu[0]) - Integer.parseInt(calcu[2]) == Integer.parseInt(calcu[4])) {
+                    answer[i] = "O";
+                } else {
+                    answer[i] = "X";
+                }
+                //parseInt() : String타입의 숫자를 int타입으로 변환해준다.
+
+            }
+        }
         return answer;
     }
 }
