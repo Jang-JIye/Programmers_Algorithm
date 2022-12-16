@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="221216">
-      <change afterPath="$PROJECT_DIR$/Reverse_Array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse_String/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <workItem from="1670918298208" duration="317000" />
       <workItem from="1670942935817" duration="1580000" />
       <workItem from="1670976810176" duration="182000" />
-      <workItem from="1671172350153" duration="3042000" />
+      <workItem from="1671172350153" duration="4906000" />
     </task>
     <task id="LOCAL-00001" summary="안전지대">
       <created>1670891554024</created>
@@ -142,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671173561611</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="배열 뒤집기">
+      <created>1671176293582</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671176293582</updated>
+    </task>
+    <task id="LOCAL-00013" summary="221216">
+      <created>1671176306236</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671176306236</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +181,7 @@
     <MESSAGE value="평행" />
     <MESSAGE value="221213" />
     <MESSAGE value="아이스 아메리카노" />
+    <MESSAGE value="배열 뒤집기" />
     <MESSAGE value="221216" />
     <option name="LAST_COMMIT_MESSAGE" value="221216" />
   </component>
