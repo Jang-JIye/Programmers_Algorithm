@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="221220">
+    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="221223">
       <change afterPath="$PROJECT_DIR$/Print_Right_Triangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum_Two_Integers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Handing_Basics/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <workItem from="1670976810176" duration="182000" />
       <workItem from="1671172350153" duration="9918000" />
       <workItem from="1671494665163" duration="2782000" />
-      <workItem from="1671762676116" duration="1583000" />
+      <workItem from="1671762676116" duration="5148000" />
     </task>
     <task id="LOCAL-00001" summary="안전지대">
       <created>1670891554024</created>
@@ -207,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671498571544</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="두 정수 사이의 합">
+      <created>1671764487635</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671764487635</updated>
+    </task>
+    <task id="LOCAL-00019" summary="221223">
+      <created>1671764503737</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1671764503737</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +251,8 @@
     <MESSAGE value="문자열 뒤집기" />
     <MESSAGE value="문자열 내맘대로 정렬하기" />
     <MESSAGE value="221220" />
-    <option name="LAST_COMMIT_MESSAGE" value="221220" />
+    <MESSAGE value="두 정수 사이의 합" />
+    <MESSAGE value="221223" />
+    <option name="LAST_COMMIT_MESSAGE" value="221223" />
   </component>
 </project>
