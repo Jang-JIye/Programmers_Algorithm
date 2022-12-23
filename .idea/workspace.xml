@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="문자열 뒤집기">
+    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="221220">
       <change afterPath="$PROJECT_DIR$/Print_Right_Triangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort_the_String_Own_Way/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum_Two_Integers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,8 @@
       <workItem from="1670942935817" duration="1580000" />
       <workItem from="1670976810176" duration="182000" />
       <workItem from="1671172350153" duration="9918000" />
-      <workItem from="1671494665163" duration="1952000" />
+      <workItem from="1671494665163" duration="2782000" />
+      <workItem from="1671762676116" duration="1583000" />
     </task>
     <task id="LOCAL-00001" summary="안전지대">
       <created>1670891554024</created>
@@ -192,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671178591705</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="문자열 내맘대로 정렬하기">
+      <created>1671498556977</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671498556977</updated>
+    </task>
+    <task id="LOCAL-00017" summary="221220">
+      <created>1671498571544</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671498571544</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +235,8 @@
     <MESSAGE value="배열 뒤집기" />
     <MESSAGE value="221216" />
     <MESSAGE value="문자열 뒤집기" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열 뒤집기" />
+    <MESSAGE value="문자열 내맘대로 정렬하기" />
+    <MESSAGE value="221220" />
+    <option name="LAST_COMMIT_MESSAGE" value="221220" />
   </component>
 </project>
