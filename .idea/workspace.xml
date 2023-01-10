@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="230110">
-      <change afterPath="$PROJECT_DIR$/Add_Misssing_Numbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print_Right_Triangle/Solution.java" afterDir="false" />
+    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="짝수의 합">
+      <change afterPath="$PROJECT_DIR$/Lamb_Skewers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <workItem from="1671844888225" duration="594000" />
       <workItem from="1671960018215" duration="1211000" />
       <workItem from="1672197238147" duration="667000" />
-      <workItem from="1673309095448" duration="12768000" />
+      <workItem from="1673309095448" duration="16139000" />
     </task>
     <task id="LOCAL-00001" summary="안전지대">
       <created>1670891554024</created>
@@ -316,7 +315,49 @@
       <option name="project" value="LOCAL" />
       <updated>1673326967657</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="없는 숫자 더하기">
+      <created>1673339415716</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1673339415716</updated>
+    </task>
+    <task id="LOCAL-00034" summary="없는 숫자 더하기">
+      <created>1673339441388</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1673339441388</updated>
+    </task>
+    <task id="LOCAL-00035" summary="직각삼각형 출력하기">
+      <created>1673339608072</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1673339608072</updated>
+    </task>
+    <task id="LOCAL-00036" summary="230110">
+      <created>1673339625115</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673339625115</updated>
+    </task>
+    <task id="LOCAL-00037" summary="겹치는 선분의 길이">
+      <created>1673345405300</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673345405300</updated>
+    </task>
+    <task id="LOCAL-00038" summary="짝수의 합">
+      <created>1673345938221</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673345938221</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,9 +392,12 @@
     <MESSAGE value="221223" />
     <MESSAGE value="콜라츠 추측" />
     <MESSAGE value="부족한 금액 계산하기" />
-    <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="짝수 홀수 개수" />
+    <MESSAGE value="없는 숫자 더하기" />
+    <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="230110" />
-    <option name="LAST_COMMIT_MESSAGE" value="230110" />
+    <MESSAGE value="겹치는 선분의 길이" />
+    <MESSAGE value="짝수의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="짝수의 합" />
   </component>
 </project>
