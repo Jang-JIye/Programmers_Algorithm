@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="소수 찾기">
+    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="순서쌍의 개수_lv.0">
+      <change afterPath="$PROJECT_DIR$/ant_colony/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmers/Add_Misssing_Numbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/Add_Misssing_Numbers/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmers/Length_of_overlapping_segments/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/Length_of_overlapping_segments/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmers/Print_Right_Triangle/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/Print_Right_Triangle/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find_Decimal_Number/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Find_Decimal_Number/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +93,14 @@
       <workItem from="1673309095448" duration="16240000" />
       <workItem from="1673398464428" duration="6381000" />
       <workItem from="1673588838027" duration="694000" />
-    </task>
-    <task id="LOCAL-00001" summary="안전지대">
-      <created>1670891554024</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670891554024</updated>
-    </task>
-    <task id="LOCAL-00002" summary="OX퀴즈">
-      <created>1670895652485</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670895652485</updated>
+      <workItem from="1680828388821" duration="608000" />
+      <workItem from="1681113797692" duration="2257000" />
+      <workItem from="1681190759236" duration="5562000" />
+      <workItem from="1681262825796" duration="3845000" />
+      <workItem from="1681603181953" duration="2536000" />
+      <workItem from="1681700192536" duration="3882000" />
+      <workItem from="1681781066577" duration="955000" />
+      <workItem from="1681860409001" duration="1336000" />
     </task>
     <task id="LOCAL-00003" summary="221213">
       <created>1670895660302</created>
@@ -411,7 +403,49 @@
       <option name="project" value="LOCAL" />
       <updated>1673589337965</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="문자 반복 출력하기">
+      <created>1681202617524</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681202617524</updated>
+    </task>
+    <task id="LOCAL-00047" summary="특정 문자 제거하기">
+      <created>1681276206155</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681276206155</updated>
+    </task>
+    <task id="LOCAL-00048" summary="배열 자르기_lv.0">
+      <created>1681604179328</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681604179328</updated>
+    </task>
+    <task id="LOCAL-00049" summary="외계행성의 나이_lv.0">
+      <created>1681605810547</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681605810547</updated>
+    </task>
+    <task id="LOCAL-00050" summary="진료순서 정하기_lv.0">
+      <created>1681733044462</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681733044462</updated>
+    </task>
+    <task id="LOCAL-00051" summary="순서쌍의 개수_lv.0">
+      <created>1681788551131</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1681788551131</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,12 +463,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="배열의 평균값" />
-    <MESSAGE value="평행" />
-    <MESSAGE value="221213" />
-    <MESSAGE value="아이스 아메리카노" />
-    <MESSAGE value="배열 뒤집기" />
-    <MESSAGE value="221216" />
     <MESSAGE value="문자열 뒤집기" />
     <MESSAGE value="문자열 내맘대로 정렬하기" />
     <MESSAGE value="221220" />
@@ -454,6 +482,12 @@
     <MESSAGE value="230111" />
     <MESSAGE value="3진법 뒤집기" />
     <MESSAGE value="소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 찾기" />
+    <MESSAGE value="문자 반복 출력하기" />
+    <MESSAGE value="특정 문자 제거하기" />
+    <MESSAGE value="배열 자르기_lv.0" />
+    <MESSAGE value="외계행성의 나이_lv.0" />
+    <MESSAGE value="진료순서 정하기_lv.0" />
+    <MESSAGE value="순서쌍의 개수_lv.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="순서쌍의 개수_lv.0" />
   </component>
 </project>
