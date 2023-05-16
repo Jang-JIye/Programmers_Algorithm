@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="배열 원소의 길이_lv.0">
-      <change afterPath="$PROJECT_DIR$/length_of_array_elements/Solution.java" afterDir="false" />
+    <list default="true" id="77b1c97b-8a08-46de-8b6a-30d01eb06cbc" name="Changes" comment="중복된 문자 제거_lv.0">
+      <change afterPath="$PROJECT_DIR$/conditions_for_completing_a_triangle/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prac/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Find_Decimal_Number/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Find_Decimal_Number/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programmers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programmers/GCD_and_LCM/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmers/GCD_and_LCM/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,21 +136,12 @@
       <workItem from="1683268495809" duration="1706000" />
       <workItem from="1683354460078" duration="594000" />
       <workItem from="1683427580836" duration="1189000" />
-      <workItem from="1683550180741" duration="324000" />
-    </task>
-    <task id="LOCAL-00019" summary="221223">
-      <created>1671764503737</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1671764503737</updated>
-    </task>
-    <task id="LOCAL-00020" summary="문자열 다루기 기본">
-      <created>1671772212540</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1671772212540</updated>
+      <workItem from="1683550180741" duration="1697000" />
+      <workItem from="1683640212522" duration="1692000" />
+      <workItem from="1684031718342" duration="603000" />
+      <workItem from="1684057358776" duration="595000" />
+      <workItem from="1684125470396" duration="4471000" />
+      <workItem from="1684209635829" duration="1216000" />
     </task>
     <task id="LOCAL-00021" summary="221223">
       <created>1671772227287</created>
@@ -480,7 +472,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683032964650</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="배열 원소의 길이_lv.0">
+      <created>1683550646469</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1683550646470</updated>
+    </task>
+    <task id="LOCAL-00069" summary="중복된 문자 제거_lv.0">
+      <created>1683642300744</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1683642300744</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3진법 뒤집기" />
     <MESSAGE value="소수 찾기" />
     <MESSAGE value="문자 반복 출력하기" />
     <MESSAGE value="특정 문자 제거하기" />
@@ -523,6 +528,7 @@
     <MESSAGE value="소인수분해_lv.0" />
     <MESSAGE value="컨트롤Z_lv.0" />
     <MESSAGE value="배열 원소의 길이_lv.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열 원소의 길이_lv.0" />
+    <MESSAGE value="중복된 문자 제거_lv.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="중복된 문자 제거_lv.0" />
   </component>
 </project>
